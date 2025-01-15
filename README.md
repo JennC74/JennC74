@@ -3,7 +3,7 @@
 - 🌱 Je me forme actuellement sur les langages HTML, CSS et  par la suite Javascript....
 - 💞️ J'apprends le métier de développeuse web
 - 📫 via la boîte de discussion
-- 😄 Pronouns: Jenn
+- 😄 Pronoun: Jenn
   
 
 <!---
